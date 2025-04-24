@@ -32,9 +32,7 @@
   "directories": {
     "lib": "./lib"
   },
-  "dependencies": {
-    "bottleneck": "^2.19.5"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@strapi/plugin-i18n": "^4.15.0"
   },
